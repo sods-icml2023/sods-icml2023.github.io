@@ -6,41 +6,36 @@ permalink: /organizers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/JiaxuanYou.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://cs.stanford.edu/~jiaxuan/">Jiaxuan You</a><br />
-      Kumo AI | Stanford
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/HaoranSun.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://scholar.google.com/citations?user=p7of_yoAAAAJ&hl=en/">Haoran Sun</a><br />
+      Georgia Tech
     </td>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/MarinkaZitnik.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://zitniklab.hms.harvard.edu/">Marinka Zitnik</a><br />
-      Harvard
-    </td>
-    <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/RexYing.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://cs.stanford.edu/~rexy/">Rex Ying</a><br />
-      Yale
-    </td>
-  </tr>
-  <tr>
-    <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/YizhouSun.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://web.cs.ucla.edu/~yzsun/">Yizhou Sun</a><br />
-      UCLA
-    </td>
-    <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/HanjunDai.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/HanjunDai.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://hanjun-dai.github.io/">Hanjun Dai</a><br />
       Google Brain
     </td>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/StefanieJegelka.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://people.csail.mit.edu/stefje/">Stefanie Jegelka</a><br />
-      MIT
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/PriyankJiani.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://priyankjaini.github.io/">Priyank Jiani</a><br />
+      Google Brain
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/RuqiZhang.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://ruqizhang.github.io/">Ruqi Zhang</a><br />
+      Purdue University
+    </td>
+    <td> 
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/EllenVitercik.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://vitercik.github.io/">Ellen Vitercik</a><br />
+      Stanford University
     </td>
   </tr> 
 </table>
 
 
 Should you have any questions, please reach out to us via email:<br>
-[glfrontiers@googlegroups.com
-](mailto:glfrontiers@googlegroups.com)
+[sods-icml2023@googlegroups.com
+](mailto:sods-icml2023@googlegroups.com)
