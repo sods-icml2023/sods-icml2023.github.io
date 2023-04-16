@@ -7,36 +7,36 @@ permalink: /speakers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Xavier.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://graphdeeplearning.github.io/authors/xavier-bresson/">Xavier Bresson</a><br />
-      National University of Singapore
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/YoshuaBengio.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://yoshuabengio.org/">Yoshua Bengio</a><br />
+      MILA
     </td>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Azalia.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="http://azaliamirhoseini.com/">Azalia Mirhoseini</a><br />
-      Anthropic AI
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/LianhuiQin.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://sites.google.com/view/lianhuiqin/home">Lianhui Qin</a><br />
+      University of Washington
     </td>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/KelseyAllen.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://k-r-allen.github.io/">Kelsey Allen</a><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/GiacomoZanella.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://sites.google.com/site/gzanellawebpage/home">Giacomo Zanella</a><br />
       DeepMind
     </td>
   </tr> 
-  <tr>
+  <!-- <tr>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/Francesco.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/Francesco.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://francescodgv.github.io/">Francesco Di Giovanni</a><br />
       Twitter
     </td>
     <td> 
-      <img src="https://github.com/glfrontiers/glfrontiers.github.io/blob/master/images/MatejBalog.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/MatejBalog.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="http://matejbalog.eu/">Matej Balog</a><br />
       DeepMind
     </td>
-  </tr> 
+  </tr>  -->
 </table>
 
 
 Should you have any questions, please reach out to us via email:<br>
-[glfrontiers@googlegroups.com
-](mailto:glfrontiers@googlegroups.com)
+[sods@googlegroups.com
+](mailto:sods@googlegroups.com)
