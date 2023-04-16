@@ -12,9 +12,9 @@ Sampling and optimization in discrete space are classical and important problems
 ### Challenges
 However, discrete space sampling/optimization is hard in general compared to continuous space. Although some independence structures can be leveraged for some special problems, in general discrete space sampling/optimization is slow. 
 Recently, there has been new trends of research in efficient discrete sampling and optimization via
-- *Leveraging the gradient information of objectives*: the gradient based MCMC algorithms generalize the Langevin dynamics to discrete space.
-- *Embedding into a continuous space*: The embedding methods first map the discrete space to continuous space, then apply efficient sampling algorithm in continuous space, then map the new sample back into discrete space.
-- *Other effective proposal strategies in discrete space*: for example Stein variational method and GFlowNet 
+- *Leveraging the gradient information of objectives:* the gradient based MCMC algorithms generalize the Langevin dynamics to discrete space.
+- *Embedding into a continuous space:* The embedding methods first map the discrete space to continuous space, then apply efficient sampling algorithm in continuous space, then map the new sample back into discrete space.
+- *Other effective proposal strategies in discrete space:* for example Stein variational method and GFlowNet 
 These methods have improved efficiency in many domains. With simulated annealing, they can also serve as optimization algorithms and demonstrate superior performance on many combinatorial optimization problems comparing to existing learning based methods. However, they might still be limited when applied for black-box objectives, or problems involving long-range and high-order correlations like in modern language models. 
 
 ### Scope and Topics
