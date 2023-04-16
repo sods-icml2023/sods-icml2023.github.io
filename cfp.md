@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Submission deadline:** Monday, June 1, 2023 (16:59 PDT)<br>
 
-**Submission site (OpenReview): [ICML 2023 SODS Workshop](https://www.google.com/)** <br>
+**Submission site (OpenReview): [ICML 2023 SODS Workshop](https://openreview.net/)** <br>
 
 **Author notification:** Monday, June 21, 2023
 
@@ -14,8 +14,8 @@ permalink: /cfp/
 
 **Workshop (in person):** Friday, July 28, 2022<br>
 
-**Updates:** 
-- Please use the following **[ICML SODS style file](https://github.com/glfrontiers/glfrontiers.github.io/blob/master/files/neurips_glfrontiers_2022.sty)** for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2022}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**.
+<!-- **Updates:** 
+- Please use the following **[ICML SODS style file](https://github.com/glfrontiers/glfrontiers.github.io/blob/master/files/neurips_glfrontiers_2022.sty)** for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2022}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
 
 
 The workshop will be held fully in person at the New Orleans Convention Center, as part of the [ICML 2023 conference](https://icml.cc/Conferences/2023).
