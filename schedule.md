@@ -48,5 +48,5 @@ The Workshop will be held in person on Friday, July 28, 2023, at Hawaii Conventi
 
 
 Should you have any questions, please reach out to us via email:<br>
-[sods@googlegroups.com
-](mailto:sods@googlegroups.com)
+[sods-icml2023@googlegroups.com
+](mailto:sods-icml2023@googlegroups.com)

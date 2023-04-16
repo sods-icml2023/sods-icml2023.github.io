@@ -32,15 +32,15 @@ We welcome submissions regarding sampling and optimization in discrete space, in
 We welcome both short research papers of up to 4 pages (excluding references and supplementary materials), and full-length research papers of up to ~~8~~ 9 pages (excluding references and supplementary materials). 
 All accepted papers will be presented as posters. 
 **We will select 6 papers for short spotlight presentations and 2 papers for the outstanding paper awards with cash incentives.**
-**Speakers and DEI applicants with accepted papers are welcomed to apply for a limited amount of travel support** by [contact the workshop committee](mailto:sods@googlegroups.com).
+**Speakers and DEI applicants with accepted papers are welcomed to apply for a limited amount of travel support** by [contact the workshop committee](mailto:sods-icml2023@googlegroups.com).
 <!-- We sincerely appreciate the sponsorship from Google on our workshop. -->
 
 
 <!-- All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles). We do not require the authors to include the checklist in the template. Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable. -->
 
 Should you have any questions, please reach out to us via email:<br>
-[sods@googlegroups.com
-](mailto:sods@googlegroups.com)
+[sods-icml2023@googlegroups.com
+](mailto:sods-icml2023@googlegroups.com)
 
 <!-- ### Sponsorship
 *NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google.*
