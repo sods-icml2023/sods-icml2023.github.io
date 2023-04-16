@@ -6,29 +6,29 @@ permalink: /organizers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/HaoranSun.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/images/HaoranSun.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://scholar.google.com/citations?user=p7of_yoAAAAJ&hl=en/">Haoran Sun</a><br />
       Georgia Tech
     </td>
     <td> 
-      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/HanjunDai.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/images/HanjunDai.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://hanjun-dai.github.io/">Hanjun Dai</a><br />
       Google Brain
     </td>
     <td> 
-      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/PriyankJiani.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/images/PriyankJiani.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://priyankjaini.github.io/">Priyank Jiani</a><br />
       Google Brain
     </td>
   </tr>
   <tr>
     <td> 
-      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/RuqiZhang.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/images/RuqiZhang.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://ruqizhang.github.io/">Ruqi Zhang</a><br />
       Purdue University
     </td>
     <td> 
-      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/images/EllenVitercik.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/images/EllenVitercik.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://vitercik.github.io/">Ellen Vitercik</a><br />
       Stanford University
     </td>
