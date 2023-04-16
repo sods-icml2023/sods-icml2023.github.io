@@ -22,18 +22,18 @@ permalink: /speakers/
       Bocconi University
     </td>
   </tr> 
-  <!-- <tr>
+  <tr>
     <td> 
-      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/Francesco.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="https://francescodgv.github.io/">Francesco Di Giovanni</a><br />
-      Twitter
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/WillGrathwohl.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="http://www.cs.toronto.edu/~wgrathwohl/">Will Grathwohl</a><br />
+      DeepMind
     </td>
-    <td> 
+    <!-- <td> 
       <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/MatejBalog.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="http://matejbalog.eu/">Matej Balog</a><br />
       DeepMind
-    </td>
-  </tr>  -->
+    </td> -->
+  </tr> 
 </table>
 
 
