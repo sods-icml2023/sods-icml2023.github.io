@@ -44,56 +44,9 @@ Time zone: PDT -->
 
 4:45--5:00PM: **Closing remarks** -->
 
-
-The Workshop will be held in person on Friday, Dec 2, 2022, at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022). The NeurIPS homepage for our workshop is [here](https://nips.cc/virtual/2022/workshop/49963).
-
-If you are interested in watching the livestream of the workshop, please [register on the NeurIPS website](https://nips.cc/Register/view-registration) with the "Virtual Only Pass" option. 
-You will then have access to the [workshop livestream](https://nips.cc/virtual/2022/workshop/49963).
-
-
-8:00-8:40AM:  Poster setup
-
-8:40-9:00AM:  **Opening Remarks**
-
-9:00-9:30AM:  **Invited Talk**: Kelsey Allen
-
-9:30-10:00AM: **Invited Talk**: Azalia Mirhoseini
-
-10:00-10:30AM: **Coffee Break and Discussions** 
-
-10:30-11:00AM: **Contributed Talks from Submissions: Part 1** 
-
-- *Expander Graph Propagation*. Presenter: Petar Veličković
-- *Condensing Graphs via One-Step Gradient Matching*. Presenter: Wei Jin
-- *Diffusion Models for Graphs Benefit From Discrete State Spaces*. Presenter: Karolis Martinkus
-- *How Powerful is Implicit Denoising in Graph Neural Networks*. Presenter: Jinghui Chen
-- *GraphCG: Unsupervised Discovery of Steerable Factors in Graphs*. Presenter: Shengchao Liu
-
-11:00AM-12:00PM: **Poster Sessions: Morning**
-
-12:00-1:00PM: **Lunch Break**
-
-1:00-1:30PM: **Invited Talk**: Francesco Di Giovanni
-
-1:30-2:00PM: **Invited Talk**:  Matej Balog
-
-2:00-2:30PM:  **Invited Talk**: Xavier Bresson
-
-2:30-3:00PM: **Contributed Talks from Submissions: Part 2**
-- *Spectrum Guided Topology Augmentation for Graph Contrastive Learning*. Presenter: Lu Lin
-- *Provably expressive temporal graph networks*. Presenter: Amauri Souza
-- *A New Graph Node Classification Benchmark: Learning Structure from Histology Cell Graphs*. Presenter: Claudia Vanea
-- *Faster Hyperparameter Search on Graphs via Calibrated Dataset Condensation*. Presenter: Mucong Ding
-- *Complete the Missing Half: Augmenting Aggregation Filtering with Diversification for Graph Convolutional Networks*. Presenter: Chenqing Hua
-- *ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks*. Presenter: Yuelin Wang 
-
-3:00-3:30PM: **Coffee Break and Discussions** 
-
-3:30-4:15PM: **Panel discussions**: The Future of Graph Learning
-
-4:15-5:00PM: **Poster Sessions: Afternoon**
+The Workshop will be held in person on Friday, July 28, 2023, at Hawaii Convention Center, as part of [ICML 2023 conference](https://icml.cc/Conferences/2023). The ICML homepage for our workshop is [here](https://icml.cc/Conferences/2023/Schedule?showEvent=21494). More detailed schedule will be released soon.
 
 
 Should you have any questions, please reach out to us via email:<br>
-[glfrontiers@googlegroups.com
-](mailto:glfrontiers@googlegroups.com)
+[sods@googlegroups.com
+](mailto:sods@googlegroups.com)
