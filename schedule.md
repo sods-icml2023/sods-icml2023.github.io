@@ -44,7 +44,7 @@ Time zone: PDT -->
 
 4:45--5:00PM: **Closing remarks** -->
 
-The Workshop will be held in person on Friday, July 28, 2023, at Hawaii Convention Center, as part of [ICML 2023 conference](https://icml.cc/Conferences/2023). The ICML homepage for our workshop is [here](https://icml.cc/Conferences/2023/Schedule?showEvent=21494). More detailed schedule will be released soon.
+The Workshop will be held in person on Friday, July 28, 2023, at the Hawaii Convention Center, as a part of the [ICML 2023 conference](https://icml.cc/Conferences/2023). The ICML homepage for our workshop is [here](https://icml.cc/Conferences/2023/Schedule?showEvent=21494). A more detailed schedule will be released soon.
 
 
 Should you have any questions, please reach out to us via email:<br>
