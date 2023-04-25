@@ -28,11 +28,11 @@ permalink: /speakers/
       <a href="http://www.cs.toronto.edu/~wgrathwohl/">Will Grathwohl</a><br />
       DeepMind
     </td>
-    <!-- <td> 
-      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/MatejBalog.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
-      <a href="http://matejbalog.eu/">Matej Balog</a><br />
+    <td> 
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/PetarVelickovic.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="https://petar-v.com/">Petar Veličković</a><br />
       DeepMind
-    </td> -->
+    </td>
   </tr> 
 </table>
 
