@@ -8,7 +8,7 @@ permalink: /cfp/
 
 **Submission site (OpenReview): [ICML 2023 SODS Workshop](https://openreview.net/)** <br>
 
-**Author notification:** Monday, June 21, 2023
+**Author notification:** Monday, June 19, 2023
 
 **Camera ready deadline:** Friday, July 7, 2023 (16:59 PDT)
 
