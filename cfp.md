@@ -24,7 +24,7 @@ We also plan to offer a livestream for the event, and more details will come soo
 We welcome submissions regarding sampling and optimization in discrete space, including but not limited to:
 - Syncing up on the latest research progress in discrete sampling and optimization.
 - Discussing limitations of the current methods and brainstorm the new algorithm paradigms.
-- Connecting to applications in domains like language/protein modeling, physics simulation, and bio/chemical engineering, where improved sampling/optimization in discrete space would help, and explore the current gap between the application requirements and the capability of existing methods.
+- Connecting to applications in domains such as language/protein modeling, physics simulation, and bio/chemical engineering, where improved sampling/optimization in discrete space would help, and explore the current gap between the application requirements and the capability of existing methods.
 
 
 
