@@ -18,7 +18,7 @@ permalink: /cfp/
 - Please use the following **[ICML SODS style file](https://github.com/glfrontiers/glfrontiers.github.io/blob/master/files/neurips_glfrontiers_2022.sty)** for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2022}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
 
 
-The workshop will be held fully in person at the Hawaii Convention Center, as a part of the [ICML 2023 conference](https://icml.cc/Conferences/2023). Please use the following **[SODS style file](https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/files/sods_2023.sty)**.
+The workshop will be held fully in person at the Hawaii Convention Center, as a part of the [ICML 2023 conference](https://icml.cc/Conferences/2023). Please use the following **[SODS style file](https://github.com/sods-icml2023/sods-icml2023.github.io/blob/master/files/sods_2023.sty)** with the option `\usepackage{sods_2023}`. For **the camera ready submission**, please use the option `\usepackage[final]{sods_2023}` in your main text file and **upload your camera ready version via making a revision at OpenReview**.
 <!-- and for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2022}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**.  -->
 
 We welcome submissions regarding sampling and optimization in discrete space, including but not limited to:
