@@ -62,8 +62,9 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 11:15--11:30AM: **Contributed talks 1**: 
 <!-- *Alvaro Sanchez-Gonzalez, Kimberly Stachenfeld - [Learning general-purpose CNN-based simulators for astrophysical turbulence.](https://simdl.github.io/files/26.pdf)* [Poster](https://simdl.github.io/posters/26-supp_poster_upload.pdf) -->
+11:30--11:45AM: **Contributed talks 2**: 
 
-11:30--12:00PM: **Break**
+11:45--12:00PM: **Break**
 
 12:00PM--1:30PM: [**Poster Session 1**]
 <!-- (/papers) (please enther via [this gather.town link](https://eventhosts.gather.town/app/gPmDp1IwP1UqHKxq/ICLR2021simDL)) -->
@@ -78,10 +79,10 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 2:30--2:45PM: **Q&A / Discussions 2**
 
-2:45--3:00PM: **Contributed talks 2**: 
+2:45--3:00PM: **Contributed talks 3**: 
 <!-- *Andreas Mayr - [Learning 3D Granular Flow Simulations.](https://SimDL.github.io/files/42.pdf)* [Poster](https://SimDL.github.io/posters/42-supp_poster.pdf) -->
 
-3:00--3:15PM: **Contributed talks 3**: 
+3:00--3:15PM: **Contributed talks 4**: 
 <!-- *Weihua Hu - [ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations.](https://SimDL.github.io/files/62.pdf)* [Poster](https://SimDL.github.io/posters/62-supp_forcenet_iclr2021-ws-poster.pdf) -->
 
 3:00--3:15PM: **Break**
