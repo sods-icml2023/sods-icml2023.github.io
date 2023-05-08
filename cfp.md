@@ -4,13 +4,13 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Monday, June 1, 2023 (16:59 PDT)<br>
+**Submission deadline:** Monday, June 5, 2023 (23:59 GMT)<br>
 
 **Submission site (OpenReview): [ICML 2023 SODS Workshop](https://openreview.net/)** <br>
 
 **Author notification:** Monday, June 19, 2023
 
-**Camera ready deadline:** Friday, July 7, 2023 (16:59 PDT)
+**Camera ready deadline:** Friday, July 7, 2023 (23:59 GMT)
 
 **Workshop (in person):** Friday, July 28, 2022<br>
 
