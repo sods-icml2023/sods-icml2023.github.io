@@ -61,6 +61,7 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 11:00--11:15AM: **Q&A / Discussions 1**
 
 11:15--11:30AM: **Contributed talks 1**: 
+
 <!-- *Alvaro Sanchez-Gonzalez, Kimberly Stachenfeld - [Learning general-purpose CNN-based simulators for astrophysical turbulence.](https://simdl.github.io/files/26.pdf)* [Poster](https://simdl.github.io/posters/26-supp_poster_upload.pdf) -->
 11:30--11:45AM: **Contributed talks 2**: 
 
@@ -91,7 +92,7 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 4:00--4:30PM: **Invited talk**: *Yunzhu Li - Learning Computational Dynamics Models for Physics Inference and Model-based Control.*  -->
 
-3:15--4:45PM: [**Poster Session 1**]
+3:15--4:45PM: [**Poster Session 2**]
 
 4:45--5:00PM: **Closing remarks**
 
