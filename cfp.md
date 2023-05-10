@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Submission deadline:** Monday, June 5, 2023 (23:59 GMT)<br>
 
-**Submission site (OpenReview): [ICML 2023 Workshop SODS](https://openreview.net/)** <br>
+**Submission site (OpenReview): [ICML 2023 Workshop SODS](https://openreview.net/group?id=ICML.cc/2023/Workshop/SODS)** <br>
 
 **Author notification:** Monday, June 19, 2023
 
