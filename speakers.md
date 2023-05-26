@@ -33,6 +33,11 @@ permalink: /speakers/
       <a href="https://petar-v.com/">Petar Veličković</a><br />
       DeepMind
     </td>
+    <td> 
+      <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/StefanieJegelka.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
+      <a href="http://people.csail.mit.edu/stefje/">Stefanie Jegelka</a><br />
+      MIT
+    </td>
   </tr> 
 </table>
 
