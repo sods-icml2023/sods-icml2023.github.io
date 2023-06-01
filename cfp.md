@@ -12,7 +12,7 @@ permalink: /cfp/
 
 **Camera ready deadline:** Friday, July 7, 2023 (23:59 GMT)
 
-**Workshop (in person):** Friday, July 28, 2022<br>
+**Workshop (in person):** Saturday, July 29, 2022<br>
 
 <!-- **Updates:** 
 - Please use the following **[ICML SODS style file](https://github.com/glfrontiers/glfrontiers.github.io/blob/master/files/neurips_glfrontiers_2022.sty)** for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2022}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
