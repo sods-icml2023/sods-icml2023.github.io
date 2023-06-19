@@ -14,7 +14,7 @@ permalink: /speakers/
     <td> 
       <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/LianhuiQin.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
       <a href="https://sites.google.com/view/lianhuiqin/home">Lianhui Qin</a><br />
-      UCSD
+      AI2 / UCSD
     </td>
     <td> 
       <img src="https://github.com/sods-icml2023/sods-icml2023.github.io/blob/main/images/GiacomoZanella.jpg?raw=true"  alt="1" width = 150px height = 195px ><br />
