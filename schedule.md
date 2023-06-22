@@ -59,7 +59,7 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 11:15--11:30PM: **Coffee Break**
 
-11:30PM--1:00PM: [**Poster Session 1**]
+11:30AM--1:00PM: [**Poster Session 1**]
 
 1:00--1:30PM: **Invited talk 4**
 
