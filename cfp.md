@@ -10,7 +10,7 @@ permalink: /cfp/
 
 **Author notification:** Monday, June 19, 2023
 
-**Camera ready deadline:** Friday, July 7, 2023 (23:59 GMT)
+**Camera ready deadline:** Friday, July 14, 2023 (23:59 GMT)
 
 **Workshop (in person):** Saturday, July 29, 2022<br>
 
