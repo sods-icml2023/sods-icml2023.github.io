@@ -54,7 +54,7 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 9:45--10:15AM: **Invited talk 2:** Giacomo Zanella
 
 10:15--10:45PM: **Contributed talks 1**
-* SurCo: Learning Linear SURrogates for COmbinatorial Nonlinear Optimization Problems (Outstanding)
+* **(Outstanding)** SurCo: Learning Linear SURrogates for COmbinatorial Nonlinear Optimization Problems
 * Tackling Provably Hard Representative Selection viaGraph Neural Networks
 * Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation
 
@@ -69,7 +69,7 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 1:30--2:00PM: **Invited talk 5:** Lianhui Qin
 
 2:00--2:30PM: **Contributed talks 2**
-* Understanding prompt engineering does not require rethinking generalization (Outstanding)
+* **(Outstanding)** Understanding prompt engineering does not require rethinking generalization
 * Topological Neural Discrete Representation Learning à la Kohonen
 * Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs
 
