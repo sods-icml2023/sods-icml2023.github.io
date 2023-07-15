@@ -49,31 +49,36 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 9:00--9:15AM: **Opening remarks**
 
-9:15--9:45AM: **Invited talk 1**
+9:15--9:45AM: **Invited talk 1:** Yoshua Bengio 
 
-9:45--10:15AM: **Invited talk 2**
+9:45--10:15AM: **Invited talk 2:** Giacomo Zanella
 
 10:15--10:45PM: **Contributed talks 1**
+* SurCo: Learning Linear SURrogates for COmbinatorial Nonlinear Optimization Problems (Outstanding)
+* Tackling Provably Hard Representative Selection viaGraph Neural Networks
+* Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation
 
-10:45--11:15AM: **Invited talk 3**
+10:45--11:15AM: **Invited talk 3:** Stefanie Jegelka 
 
 11:15--11:30PM: **Coffee Break**
 
 11:30AM--1:00PM: [**Poster Session 1**]
 
-1:00--1:30PM: **Invited talk 4**
+1:00--1:30PM: **Invited talk 4:** Will Grathwohl
 
-1:30--2:00PM: **Invited talk 5**
+1:30--2:00PM: **Invited talk 5:** Lianhui Qin
 
 2:00--2:30PM: **Contributed talks 2**
+* Understanding prompt engineering does not require rethinking generalization
+* Topological Neural Discrete Representation Learning à la Kohonen
+* Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs
 
-2:30--3:00PM: **Invited talk 6** 
+2:30--3:00PM: **Invited talk 6:** Petar Veličković 
 
-3:00--3:15PM: **Coffee Break**
+3:00--3:15PM: **Closing remarks**
 
 3:15--4:45PM: [**Poster Session 2**]
 
-4:45--5:00PM: **Closing remarks**
 
 Should you have any questions, please reach out to us via email:<br>
 [sods-icml2023@googlegroups.com
