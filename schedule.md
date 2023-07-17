@@ -44,13 +44,12 @@ Time zone: PDT -->
 
 4:45--5:00PM: **Closing remarks** -->
 
-The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Convention Center, as a part of the [ICML 2023 conference](https://icml.cc/Conferences/2023). The ICML homepage for our workshop is [here](https://icml.cc/Conferences/2023/Schedule?showEvent=21494). A more detailed schedule will be released soon.
+The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Convention Center, as a part of the [ICML 2023 conference](https://icml.cc/Conferences/2023). The ICML homepage for our workshop is [here](https://icml.cc/Conferences/2023/Schedule?showEvent=21494). The following schedule is based on local time (HST).
 
 
 9:00--9:15AM: **Opening remarks**
 
 9:15--9:45AM: **Invited talk 1:** Yoshua Bengio
-
 <details>
   <summary>GFlowNets for Bayesian Inference</summary>
 
