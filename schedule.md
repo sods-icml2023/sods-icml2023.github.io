@@ -49,8 +49,7 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 9:00--9:15AM: **Opening remarks**
 
-9:15--9:45AM: **Invited talk 1:** Yoshua Bengio 
-<details>
+9:15--9:45AM: **Invited talk 1:** Yoshua Bengio <details>
   <summary>GFlowNets for Bayesian Inference
 
 </summary>
@@ -73,8 +72,7 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 1:00--1:30PM: **Invited talk 4:** Will Grathwohl
 
-1:30--2:00PM: **Invited talk 5:** Lianhui Qin 
-<details>
+1:30--2:00PM: **Invited talk 5:** Lianhui Qin <details>
   <summary>Differentiable and structured text reasoning
 
 </summary>
