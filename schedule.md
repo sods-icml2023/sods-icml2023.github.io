@@ -49,12 +49,12 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 9:00--9:15AM: **Opening remarks**
 
-9:15--9:45AM: **Invited talk 1:** Yoshua Bengio 
-<details>
+9:15--9:45AM: **Invited talk 1:** Yoshua Bengio "GFlowNets for Bayesian Inference"
+<!-- <details>
   <summary>GFlowNets for Bayesian Inference
 </summary>
   Generative flow networks (GFlowNets) are generative policies trained to sample proportionally to a given reward function. If the reward function is a prior distribution times a likelihood, then the GFlowNet learns to sample from the corresponding posterior. Unlike MCMC, a GFlowNet does not suffer from the problem of mixing between modes, but like RL methods, it needs an exploratory training policy in order to discover modes. This can be conveniently done without any kind of importance weighting because the training objectives for GFlowNets can all be correctly applied in an off-policy fashion without reweighting. One can view GFlowNets also as extensions of amortized variational inference with this off-policy advantage. We show how training the GFlowNet sampler also learns how to marginalize over the target distribution or part of it, at the same time as it learns to sample from it, which makes it possible to train amortized posterior predictives. Finally, we show examples of application of GFlowNets for Bayesian inference over causal graphs, discuss open problems and how scaling up such methodologies opens the door to system 2 deep learning to discover explanatory theories and form Bayesian predictors, with the approximation error asymptotically going to zero as we increase the size and training time of the neural network.
-</details>
+</details> -->
 
 
 9:45--10:15AM: **Invited talk 2:** Giacomo Zanella
@@ -72,12 +72,12 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 
 1:00--1:30PM: **Invited talk 4:** Will Grathwohl
 
-1:30--2:00PM: **Invited talk 5:** Lianhui Qin 
-<details>
+1:30--2:00PM: **Invited talk 5:** Lianhui Qin "Differentiable and structured text reasoning"
+<!-- <details>
   <summary>Differentiable and structured text reasoning
 </summary>
   Text reasoning and generation in practice often needs to meet complex objectives, integrate diverse contextual constraints, and ground in logical structures for consistency. Current large LMs can produce fluent text and follow human instructions, but they still struggle to effectively optimize toward specific objectives. The discrete nature of text poses one of the key challenges to the optimization. In this talk, I will present our work on optimizing text reasoning and generation with continuous and discrete methods. I will first introduce COLD, a unified energy-based framework that empowers any off-the-shelf LMs to reason with any objectives in a continuous space. This approach brings forward differentiable reasoning over discrete text, thus improving efficiency. Following this, I will discuss Maieutic prompting, a method that enhances the logical consistency of neural reasoning in a discrete space by integrating with logical structures.
-</details>
+</details> -->
 
 
 2:00--2:30PM: **Contributed talks 2**
