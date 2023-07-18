@@ -86,6 +86,12 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 * Sequential Monte Carlo Steering of Large Language Models using Probabilistic Programs
 
 2:30--3:00PM: **Invited talk 6:** Petar Veličković 
+<details>
+  <summary>The Melting Pot of Neural Algorithmic Reasoning</summary>
+
+  With the eyes of the AI world pointed at the alignment of large language models, another revolution has been more silently---yet intensely---taking place: the algorithmic alignment of neural networks. 
+After briefly surveying how we got here, I'll present some of the interesting 2023 works I've had the pleasure to co-author, many of which were presented at this year's ICML.
+</details>
 
 3:00--3:15PM: **Closing remarks**
 
