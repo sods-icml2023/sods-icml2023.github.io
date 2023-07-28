@@ -64,7 +64,8 @@ The Workshop will be held in person on Saturday, July 29, 2023, at the Hawaii Co
 * Tackling Provably Hard Representative Selection viaGraph Neural Networks
 * Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation
 
-10:45--11:15AM: **Invited talk 3:** Stefanie Jegelka 
+10:45--11:15AM: **Invited talk 3:** Stefanie Jegelka  
+Learning discrete optimization: Loss functions and graph neural networks
 
 11:15--11:30PM: **Coffee Break**
 
