@@ -72,6 +72,11 @@ Learning discrete optimization: Loss functions and graph neural networks
 11:30AM--1:00PM: [**Poster Session 1**]
 
 1:00--1:30PM: **Invited talk 4:** Will Grathwohl
+<details>
+  <summary>Recent Applications of Gradients in Discrete Sampling</summary>
+
+   Discrete sampling is a challenging and important problem. Despite much research, we still lack generic methods to sampling from discrete distribution without considerable knowledge of the structure of the target distribution. Conversely, in continuous settings much more successful generic methods exist. These methods exploit the gradients of the distribution's log-likelihood function to approximate the distribution's local structure which is used to parameterize fast-mixing markov transition kernels. A number of approaches have attempted to apply these methods to discrete problems with varying levels of success. Typically we create a related continuous distribution, sampling from this using continuous methods, and map these continuous samples back into the original discrete space. Recently, a new class of approaches has emerged which utilize gradient information in a different way. These approaches stay completely in the original discrete space but utilize gradient information to define markov transition kernels which propose discrete transitions. These approaches have shown to scale better and are widely applicable. In this talk I will discuss the development of these methods starting Gibbs-With-Gradients, further work improving or expanding upon these ideas, and new directions for further research.
+</details>
 
 1:30--2:00PM: **Invited talk 5:** Lianhui Qin
 <details>
